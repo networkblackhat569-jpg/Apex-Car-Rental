@@ -1,0 +1,6 @@
+{
+  "name": "Apex Car Rental",
+  "description": "Premium rent-a-car service with verified model-matched vehicle fleet, dynamic specifications, client photo priority, and direct WhatsApp reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
